@@ -14,9 +14,10 @@
 # *SOBRE*
   
 A **BIKCRAFT** é um projeto de website apresentado no curso **"Web Design Completo"** da Origamid, na trilha "Design-Código". O projeto é ministrado pelo André Rafael, web designer e fundador da Origamid.
-
- [![origamid](https://img.shields.io/static/vitoralvesp/bikcraft&label=COURSE&message=ORIGAMID&color=8C05C0&style=for-the-badge&logo="https://github.com/vitoralvesp/bikcraft/ORIGAMID.png")](https://www.origamid.com/)
     
+ <a href="https://www.origamid.com/">
+  <img width=25 src="https://raw.githubusercontent.com/vitoralvesp/bikcraft/master/ORIGAMID.png">
+ </a>
   
 # *APRENDIZADO* 
 
