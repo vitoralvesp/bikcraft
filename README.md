@@ -13,11 +13,15 @@
 
 # *SOBRE*
   
-### A **BIKCRAFT** é um projeto de website apresentado no curso **"Web Design Completo"** da Origamid, na trilha "Design-Código". O projeto é ministrado pelo André Rafael, web designer e fundador da Origamid.
+A **BIKCRAFT** é um projeto de website apresentado no curso **"Web Design Completo"** da Origamid, na trilha "Design-Código". O projeto é ministrado pelo André Rafael, web designer e fundador da Origamid.
     
   
 # *APRENDIZADO* 
-### [x] Neste projeto, pude não somente cohecer o editor <em>ADOBE XD</em>, mas aprender a utilizá-lo para aplicações web.
+
+- [x] Neste projeto, pude aprender a utilizar o editor *ADOBE XD* para aplicações web.
+- [x] Aprendi como aplicar o básico sobre conceitos de experiência do usuário.
+
+
   
   
 
