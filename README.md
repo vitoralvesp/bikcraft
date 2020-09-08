@@ -9,3 +9,23 @@
 
   
 <img hidth="900" src="https://raw.githubusercontent.com/vitoralvesp/bikcraft/master/GitHub%20-%20bikcraft.png">
+
+
+<div>
+  <h1>
+    <strong>Sobre</strong>
+  </h1>
+  <h3>
+    A <em>BIKCRAFT</em> é um projeto de website apresentado no curso <em>"Web Design Completo"</em> da Origamid, na trilha "Design-Código". O projeto é ministrado pelo André Rafael, web designer e fundador da Origamid.
+  <h3>
+</div>
+    
+<div>    
+  <h1>
+  <strong>Aprendizado</strong>
+  
+  <h3>
+  - [x] Neste projeto, pude não somente cohecer o editor <em>ADOBE XD</em>, mas aprender a utilizá-lo para aplicações web.
+  </h3>
+  
+ </div>
