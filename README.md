@@ -60,7 +60,7 @@ Conheça a *BIKCRAFT*  :arrow_right: (https://www.bikcraft.com)
 
 :construction: *EM CONSTRUÇÃO* :construction:
  
-<img width="400" src="https://media1.tenor.com/images/c11a31de6a7f63b4aa3c5897edc43383/tenor.gif?itemid=9834051">
+<img width="200" src="https://media1.tenor.com/images/c11a31de6a7f63b4aa3c5897edc43383/tenor.gif?itemid=9834051">
 
 ---
 
@@ -70,17 +70,18 @@ Conheça a *BIKCRAFT*  :arrow_right: (https://www.bikcraft.com)
   <img src="https://avatars2.githubusercontent.com/u/68354632?s=96&v=4"/>
 </div>
 
-*Vitor Alves Pereira*
-
-Estudante de Web Design, UI/UX Design, HTML, CSS, Javascript e React na Origamid.
-
+<div style="float">
+  <h3><i>Vitor Alves Pereira</i></h3>
+  
+  <h4>Estudante de Web Design, UI/UX Design, HTML, CSS, Javascript e React na Origamid.<h4>
+</div>
+  
 <div style="float">
   <img src="https://img.shields.io/github/followers/vitoralvesp?color=%231CB4DC&logo=github&style=for-the-badge"/>
   
 </div>
 
 
-<a href="url"><img src="https://avatars2.githubusercontent.com/u/68354632?s=96&v=4" height="auto" width="200" style="border-radius:50%"></a>
 
 
 
