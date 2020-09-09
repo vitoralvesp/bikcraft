@@ -76,9 +76,9 @@ Estudante de Web Design, UI/UX Design, HTML, CSS, Javascript e React na Origamid
 
 <div style="float">
   
-  [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](pereira.alves.vitor@gmail.com)
+  [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereira.alves.vitor@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-alves-pereira-9b78801b4/)
-  ![GitHub](https://img.shields.io/github/followers/vitoralvesp?color=%231CB4DC&logo=github&style=for-the-badge)
+  [![GitHub](https://img.shields.io/github/followers/vitoralvesp?color=%231CB4DC&logo=github&style=for-the-badge)](https://github.com/vitoralvesp/)
 </div>
 
 
