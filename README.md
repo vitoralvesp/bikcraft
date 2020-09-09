@@ -18,12 +18,16 @@ A **BIKCRAFT** é um projeto de website apresentado no curso **"Web Design Compl
  <a href="https://www.origamid.com/">
   <img width=25 src="https://raw.githubusercontent.com/vitoralvesp/bikcraft/master/ORIGAMID.png">
  </a>
-  
+ 
 # *APRENDIZADO* 
 
 - [x] Neste projeto, pude aprender a utilizar o editor *ADOBE XD* para aplicações web.
 - [x] Aprendi como aplicar o básico sobre conceitos de experiência do usuário.
 
+
+# *WIREFRAME ao DESIGN*
+
+[[![GIF](https://giphy.com/gifs/iGYOGvohmowpGO03Nr)](https://media.giphy.com/media/iGYOGvohmowpGO03Nr/giphy.gif)](https://giphy.com/gifs/iGYOGvohmowpGO03Nr/html5)]
 
   
   
