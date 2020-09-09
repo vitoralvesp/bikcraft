@@ -38,9 +38,32 @@ A **BIKCRAFT** é um projeto de website apresentado no curso **"Web Design Compl
 
 <div style="float">
   <img width="400" align="left" src="https://media.giphy.com/media/Ykn1y4VtG26h5y2BPo/giphy.gif">
-  <img width="400" align="right" src="https://media.giphy.com/media/SvLnDlgu8CRcSYBUBl/giphy.gif">
+  <img width="400" float="right" src="https://media.giphy.com/media/SvLnDlgu8CRcSYBUBl/giphy.gif">
 </div>
-  
+
+<div>  
+  <h4>Fizemos, primeiramente, o <i>WIREFRAME</i> do <i>BIKCRAFT</i> (planejamento de como o website ficaria) e depois a finalização com o <i>DESIGN</i>.</h4>
+</div>
+
 ---
-  
+
+#  :mag: *TESTES*
+
+Conheça a *BIKCRAFT*  :arrow_right: (https://www.bikcraft.com)
+
+:warning: **OBS: Mesmo que os alunos da *ORIGAMID* ainda não tenham realizado o wireframe e o design ou até mesmo a codificação (HTML5 e CSS), o André Rafael, que é responsável pelo curso, deixou o website da *BIKCRAFT* disponível para quem quiser acessar (basta clicar no link acima para navegar). :warning:
+
+
+---
+
+# *STATUS*
+
+:construction: *EM CONSTRUÇÃO* :construction:
+ 
+<img width="400" src="https://media1.tenor.com/images/c11a31de6a7f63b4aa3c5897edc43383/tenor.gif?itemid=9834051">
+
+
+
+
+
 
