@@ -27,7 +27,7 @@ A **BIKCRAFT** é um projeto de website apresentado no curso **"Web Design Compl
 
 # *WIREFRAME ao DESIGN*
 
-<img hidth="900" src="https://media.giphy.com/media/iGYOGvohmowpGO03Nr/giphy.gif"/>
+<img hidth="900" src="https://media.giphy.com/media/Ykn1y4VtG26h5y2BPo/giphy.gif"/>
 
   
   
