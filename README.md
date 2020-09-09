@@ -24,7 +24,6 @@ A **BIKCRAFT** é um projeto de website apresentado no curso **"Web Design Compl
   </a>
  </div>
    
- 
  ---
  
 #  :book: *APRENDIZADO* 
@@ -70,15 +69,16 @@ Conheça a *BIKCRAFT*  :arrow_right: (https://www.bikcraft.com)
   <img src="https://avatars2.githubusercontent.com/u/68354632?s=96&v=4"/>
 </div>
 
+
+*__Vitor Alves Pereira__*
+  
+Estudante de Web Design, UI/UX Design, HTML, CSS, Javascript e React na Origamid.
+
 <div style="float">
-  <h3><i>Vitor Alves Pereira</i></h3>
   
-  <h4>Estudante de Web Design, UI/UX Design, HTML, CSS, Javascript e React na Origamid.<h4>
-</div>
-  
-<div style="float">
-  <img src="https://img.shields.io/github/followers/vitoralvesp?color=%231CB4DC&logo=github&style=for-the-badge"/>
-  
+  [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](pereira.alves.vitor@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-alves-pereira-9b78801b4/)
+  ![GitHub](https://img.shields.io/github/followers/vitoralvesp?color=%231CB4DC&logo=github&style=for-the-badge)
 </div>
 
 
