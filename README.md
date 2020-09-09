@@ -63,6 +63,14 @@ Conheça a *BIKCRAFT*  :arrow_right: (https://www.bikcraft.com)
 <img width="400" src="https://media1.tenor.com/images/c11a31de6a7f63b4aa3c5897edc43383/tenor.gif?itemid=9834051">
 
 
+# *AUTOR*
+
+*Vitor Alves Pereira*
+
+Estudante de Web Design, UI/UX Design, HTML, CSS, Javascript e React na Origamid.
+
+<img src="https://img.shields.io/github/followers/vitoralvesp?color=%231CB4DC&logo=github&style=for-the-badge"/>
+
 
 
 
