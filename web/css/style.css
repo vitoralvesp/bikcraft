@@ -11,6 +11,7 @@ p {
 
 img {
   display: block;
+  max-width: 100%;
 }
 
 .btn {
@@ -61,7 +62,7 @@ img {
   letter-spacing: 0.1em;
   color: #000;
   text-transform: uppercase;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .subtitulo-interno:after {
@@ -72,7 +73,9 @@ img {
   background: #000;
   margin: 8px 0;
 }
+
 /* Header */
+
 .header {
   position: fixed;
   top: 0;
@@ -111,6 +114,7 @@ img {
 }
 
 /* Introduction */
+
 .introducao {
   width: 100%;
   height: 380px;
@@ -129,7 +133,7 @@ img {
 }
 
 .quote-externo {
-  max-width: 360px;
+  max-width: 320px;
   margin: 0 auto;
   margin-bottom: 40px;
   color: white;
@@ -157,6 +161,7 @@ img {
 }
 
 /*Intern Introduction*/
+
 .introducao-interna {
   width: 100%;
   margin-top: 92px;
@@ -196,6 +201,10 @@ img {
 .produtos_lista li {
   background: #fec63e;
   text-align: center;
+}
+
+.produtos_lista li img {
+  margin: 0 auto;
 }
 
 .produtos_lista li h3 {
@@ -247,7 +256,7 @@ img {
 }
 
 .portfolio .subtitulo:after {
-  background-color: #fec63e;
+  background: #fec63e;
 }
 
 .portfolio_lista li:last-child {
@@ -326,7 +335,11 @@ img {
   width: 100%;
   background: #000;
   color: #fff;
-  padding: 20px 0;
+  padding: 20px 0px 0;
+}
+
+.footer .container {
+  margin-bottom: 20px;
 }
 
 .footer h3 {
@@ -344,7 +357,7 @@ img {
   width: 60px;
   height: 3px;
   background: #fec63e;
-  margin: 6px 0 12px 0;
+  margin: 6px 0px 10px 0;
 }
 
 .footer_historia {
