@@ -154,4 +154,19 @@
   .orcamento_dados ul {
     padding-right: 0px;
   }
+
+  /* Contato*/
+  .contato_form {
+    padding-right: 0px;
+    margin-bottom: 40px;
+  }
+
+  .contato_dados {
+    color: #000;
+  }
+
+  .contato_redes h3 {
+    padding-right: 0px;
+    margin-top: 40px;
+  }
 } /* Final */
