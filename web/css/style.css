@@ -1,10 +1,11 @@
-/* General Styles */
+/* Estilos Gerais */
+
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 14px;
   line-height: 20px;
 }
@@ -80,7 +81,7 @@ img {
   position: fixed;
   top: 0;
   width: 100%;
-  background: #fec63e;
+  background: #fec63e; /* Amarelo */
   padding: 15px 0;
   z-index: 10;
 }
@@ -113,7 +114,7 @@ img {
   color: #fff;
 }
 
-/* Introduction */
+/* Introdução */
 
 .introducao {
   width: 100%;
@@ -160,7 +161,7 @@ img {
   letter-spacing: 0.1em;
 }
 
-/*Intern Introduction*/
+/*Introducao Interna*/
 
 .introducao-interna {
   width: 100%;
@@ -173,7 +174,6 @@ img {
 
 .introducao-interna h1 {
   font-size: 36px;
-  color: #fff;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -187,15 +187,10 @@ img {
   margin: 6px auto 10px auto;
 }
 
-/* Produtos */
+/*Produtos*/
 
 .produtos {
   padding: 60px 0;
-}
-
-/* Necessário para centralizar as imagens*/
-.produtos_lista li img {
-  margin: 0 auto;
 }
 
 .produtos_lista li {
@@ -244,7 +239,8 @@ img {
   margin-bottom: 20px;
 }
 
-/* Portfólio*/
+/*Portfólio*/
+
 .portfolio {
   width: 100%;
   background: #000;
@@ -267,7 +263,8 @@ img {
   color: #fff;
 }
 
-/* Qualidade*/
+/*Qualidade*/
+
 .qualidade {
   padding: 60px 0;
 }
@@ -279,7 +276,7 @@ img {
   display: block;
   background: url("../img/linhas.svg") no-repeat center;
   position: absolute;
-  top: 200px;
+  top: 209px;
   right: 162px;
   z-index: -1;
 }
@@ -316,7 +313,8 @@ img {
   margin: 6px auto;
 }
 
-/* Quebra */
+/*Quebra*/
+
 .quebra {
   width: 100%;
   height: 220px;
@@ -330,16 +328,13 @@ img {
   max-width: 400px;
 }
 
-/* Footer */
+/*Footer*/
+
 .footer {
   width: 100%;
   background: #000;
   color: #fff;
-  padding: 20px 0px 0;
-}
-
-.footer .container {
-  margin-bottom: 20px;
+  padding: 20px 0;
 }
 
 .footer h3 {
@@ -357,7 +352,7 @@ img {
   width: 60px;
   height: 3px;
   background: #fec63e;
-  margin: 6px 0px 10px 0;
+  margin: 6px 0 12px 0;
 }
 
 .footer_historia {
@@ -391,7 +386,7 @@ img {
   padding: 20px 0;
 }
 
-/* JAVASCRIPT */
+/* JavaScript */
 
 .js [data-slide] {
   position: relative;
@@ -409,7 +404,6 @@ img {
   transition: opacity 500ms;
 }
 
-/* 6 CSS recomendado para a navegação */
 .js [data-slide-nav] {
   display: block;
   text-align: center;
@@ -419,16 +413,16 @@ img {
 .js [data-slide-nav] button {
   display: inline-block;
   width: 12px;
-  margin: 4px;
   height: 12px;
+  margin: 4px;
   border: none;
   padding: 0px;
   border-radius: 6px;
-  background: #1d1d1d;
   text-indent: -99px;
   overflow: hidden;
+  background: #1d1d1d;
 }
 
 .js [data-slide-nav] button.active {
-  background: #fec454;
+  background: #fec63e;
 }

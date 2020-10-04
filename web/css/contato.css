@@ -3,7 +3,7 @@
   background-size: cover;
 }
 
-/* Orçamento */
+/*Orçamento*/
 
 .contato {
   padding: 40px 0;
@@ -28,8 +28,8 @@
   background: none;
   padding: 7px 10px;
   margin-bottom: 10px;
-  font-size: 14px;
   outline: none;
+  font-size: 14px;
   font-family: Georgia, "Times New Roman", serif;
 }
 
@@ -41,8 +41,8 @@
   background: none;
   padding: 7px 10px;
   margin-bottom: 20px;
-  font-size: 14px;
   outline: none;
+  font-size: 14px;
   font-family: Georgia, "Times New Roman", serif;
 }
 
@@ -51,7 +51,7 @@
   background: none;
 }
 
-.contato_dados {
+.orcamento_dados {
   color: #fff;
 }
 
@@ -70,7 +70,7 @@
   font-family: Georgia, "Times New Roman", serif;
 }
 
-.contato_dados span:nth-of-type(1) {
+.contato_dados span:nth-of-type(even) {
   margin-bottom: 30px;
 }
 
@@ -90,7 +90,7 @@
 }
 
 .contato_dados ul li a:hover {
-  border-color: #000000;
+  border-color: #000;
 }
 
 .contato_mapa {
