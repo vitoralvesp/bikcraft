@@ -386,18 +386,16 @@ img {
   padding: 20px 0;
 }
 
-/* JavaScript */
+/*JAVASCRIPT*/
 
 .js [data-slide] {
   position: relative;
 }
-
 .js [data-slide] > * {
   position: absolute;
   top: 0px;
   opacity: 0;
 }
-
 .js [data-slide] > .active {
   position: relative;
   opacity: 1;
@@ -439,4 +437,18 @@ img {
   opacity: 1;
   transform: none;
   transition: opacity 800ms, transform 800ms;
+}
+
+.nao-aparece {
+  visibility: hidden;
+  position: absolute;
+  height: 0px;
+}
+
+#form-sucesso {
+  color: #31aa39;
+}
+
+#form-erro {
+  color: #f64540;
 }
