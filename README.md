@@ -52,9 +52,10 @@ Conheça a *BIKCRAFT*  :arrow_right: (https://www.bikcraft.com)
 
 # *STATUS*
 
-:construction: *EM CONSTRUÇÃO* :construction:
+:tada: *CONCLUÍDO* :tada:
  
-<img width="200" src="https://media1.tenor.com/images/c11a31de6a7f63b4aa3c5897edc43383/tenor.gif?itemid=9834051">
+<img width="400" src="https://media1.tenor.com/images/7e038cbe2eb3fc76ab6405fd95e87250/tenor.gif?itemid=18756442">
+
 
 ---
 
